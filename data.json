@@ -1,0 +1,47 @@
+[
+    {
+        "id": 5,
+        "title": "Future of Web Development",
+        "date": "October 15, 2023",
+        "image": "https://picsum.photos/400/300?random=3",
+        "excerpt": "Exploring the latest trends in modern web development practices.",
+        "content": "<p>The web development landscape is evolving rapidly...</p>",
+        "link": "post.html?id=5"
+    },
+    {
+        "id": 4,
+        "title": "AI in Modern Applications",
+        "date": "October 18, 2023",
+        "image": "https://picsum.photos/400/300?random=3",
+        "excerpt": "How artificial intelligence is transforming software development.",
+        "content": "<p>Artificial intelligence has become a game-changer...</p>",
+        "link": "post.html?id=4"
+    },
+    {
+        "id": 3,
+        "title": "JavaScript Fundamentals",
+        "date": "March 20, 2023",
+        "image": "https://picsum.photos/400/300?random=3",
+        "excerpt": "Understanding the core concepts of JavaScript programming.",
+        "content": "Full article content here...",
+        "link": "post.html?id=3"
+    },
+    {
+        "id": 2,
+        "title": "Introduction to Web Development",
+        "date": "March 15, 2023",
+        "image": "https://picsum.photos/800/400?random=1",
+        "excerpt": "Learn the basics of web development with HTML, CSS, and JavaScript.",
+        "content": "<p>Web development is the process of building websites and web applications. It involves three main technologies:</p><ul><li>HTML for structure</li><li>CSS for styling</li><li>JavaScript for interactivity</li></ul><p>Start with understanding the basic HTML elements and gradually progress to more complex concepts like CSS Grid and JavaScript frameworks.</p>",
+        "link": "post.html?id=2"
+    },
+    {
+        "id": 1,
+        "title": "Responsive Design Techniques",
+        "date": "March 18, 2023",
+        "image": "https://picsum.photos/800/400?random=2",
+        "excerpt": "Master responsive web design with modern CSS techniques.",
+        "content": "<p>Responsive design ensures your website looks great on all devices. Key techniques include:</p><ul><li>Media queries</li><li>Flexbox layouts</li><li>CSS Grid</li><li>Fluid typography</li></ul><p>Remember to test your designs on multiple screen sizes and use relative units like percentages and rems.</p>",
+        "link": "post.html?id=1"
+    }
+]
